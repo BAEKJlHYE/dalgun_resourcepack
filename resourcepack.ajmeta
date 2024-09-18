@@ -1,0 +1,18 @@
+{
+    "version": "0.4.8",
+    "projects": {
+        "undefined": {
+            "project_name": "alex",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\alex\\head.json",
+                "assets\\animated_java\\models\\item\\alex\\body.json",
+                "assets\\animated_java\\models\\item\\alex\\rightarm.json",
+                "assets\\animated_java\\models\\item\\alex\\leftarm.json",
+                "assets\\animated_java\\models\\item\\alex\\rightleg.json",
+                "assets\\animated_java\\models\\item\\alex\\leftleg.json",
+                "assets\\animated_java\\textures\\item\\alex\\alex.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        }
+    }
+}

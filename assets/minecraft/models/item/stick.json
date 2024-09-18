@@ -1,0 +1,37 @@
+{
+	"parent" : "minecraft:item/generated",
+	"textures" : {
+		"layer0" : "minecraft:item/stick"
+	},
+	
+	"overrides" : [
+		{
+			"predicate" : {"custom_model_data" : 1},
+			"model" : "dolls/jiekie"
+		},
+		{
+			"predicate" : {"custom_model_data" : 2},
+			"model" : "dolls/velvet"
+		},
+		{
+			"predicate" : {"custom_model_data" : 3},
+			"model" : "dolls/memo"
+		},
+		{
+			"predicate" : {"custom_model_data" : 4},
+			"model" : "dolls/sign"
+		},
+		{
+			"predicate" : {"custom_model_data" : 5},
+			"model" : "dolls/enchovy"
+		},
+		{
+			"predicate" : {"custom_model_data" : 6},
+			"model" : "dolls/geumpyung"
+		},
+		{
+			"predicate" : {"custom_model_data" : 7},
+			"model" : "dolls/eutnuh"
+		}
+	]
+}
