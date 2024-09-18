@@ -28,6 +28,10 @@
 		{
 			"predicate" : {"custom_model_data" : 6},
 			"model" : "dolls/geumpyung"
+		},
+		{
+			"predicate" : {"custom_model_data" : 7},
+			"model" : "dolls/eutnuh"
 		}
 	]
 }
