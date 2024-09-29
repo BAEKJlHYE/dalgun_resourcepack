@@ -4,6 +4,11 @@
             "type" : "directory",
             "source" : "dolls",
             "prefix" : "dolls/"
+        },
+        {
+            "type" : "directory",
+            "source" : "elevator",
+            "prefix" : "elevator/"
         }
     ]
 }

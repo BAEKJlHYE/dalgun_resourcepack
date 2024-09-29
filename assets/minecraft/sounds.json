@@ -1,0 +1,98 @@
+{
+    "elevator.coming": {
+      "sounds": [
+        {
+          "name": "elevator/coming",
+          "stream": false
+        }
+      ]
+    },
+    "elevator.going": {
+      "sounds": [
+        {
+          "name": "elevator/going",
+          "stream": false
+        }
+      ]
+    },
+    "elevator.noti_B1": {
+      "sounds": [
+        {
+          "name": "elevator/noti_B1",
+          "stream": false
+        }
+      ]
+    },
+    "elevator.noti_close": {
+      "sounds": [
+        {
+          "name": "elevator/noti_close",
+          "stream": false
+        }
+      ]
+    },
+    "elevator.noti_down": {
+      "sounds": [
+        {
+          "name": "elevator/noti_down",
+          "stream": false
+        }
+      ]
+    },
+    "elevator.noti_first": {
+      "sounds": [
+        {
+          "name": "elevator/noti_first",
+          "stream": false
+        }
+      ]
+    },
+    "elevator.noti_fourth": {
+      "sounds": [
+        {
+          "name": "elevator/noti_fourth",
+          "stream": false
+        }
+      ]
+    },
+    "elevator.noti_open": {
+      "sounds": [
+        {
+          "name": "elevator/noti_open",
+          "stream": false
+        }
+      ]
+    },
+    "elevator.noti_second": {
+      "sounds": [
+        {
+          "name": "elevator/noti_second",
+          "stream": false
+        }
+      ]
+    },
+    "elevator.noti_thrid": {
+      "sounds": [
+        {
+          "name": "elevator/noti_third",
+          "stream": false
+        }
+      ]
+    },
+    "elevator.noti_up": {
+      "sounds": [
+        {
+          "name": "elevator/noti_up",
+          "stream": false
+        }
+      ]
+    },
+    "elevator.ting": {
+      "sounds": [
+        {
+          "name": "elevator/ting",
+          "stream": false
+        }
+      ]
+    }
+}
