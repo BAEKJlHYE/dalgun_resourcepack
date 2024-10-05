@@ -14,14 +14,21 @@
 			"predicate": {
 				"custom_model_data": 2
 			},
-			"model": "animated_java:item/elevator_button_2/bone"
+			"model": "animated_java:item/maintenance_sign/group"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "animated_java:item/maintenance_sign/bone"
 		}
 	],
 	"animated_java": {
 		"rigs": {
-			"elevator_button_2": {
+			"maintenance_sign": {
 				"used_ids": [
-					2
+					2,
+					3
 				]
 			}
 		}

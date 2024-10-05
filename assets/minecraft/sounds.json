@@ -15,14 +15,6 @@
         }
       ]
     },
-    "elevator.noti_B1": {
-      "sounds": [
-        {
-          "name": "elevator/noti_B1",
-          "stream": false
-        }
-      ]
-    },
     "elevator.noti_close": {
       "sounds": [
         {
@@ -39,42 +31,10 @@
         }
       ]
     },
-    "elevator.noti_first": {
-      "sounds": [
-        {
-          "name": "elevator/noti_first",
-          "stream": false
-        }
-      ]
-    },
-    "elevator.noti_fourth": {
-      "sounds": [
-        {
-          "name": "elevator/noti_fourth",
-          "stream": false
-        }
-      ]
-    },
     "elevator.noti_open": {
       "sounds": [
         {
           "name": "elevator/noti_open",
-          "stream": false
-        }
-      ]
-    },
-    "elevator.noti_second": {
-      "sounds": [
-        {
-          "name": "elevator/noti_second",
-          "stream": false
-        }
-      ]
-    },
-    "elevator.noti_thrid": {
-      "sounds": [
-        {
-          "name": "elevator/noti_third",
           "stream": false
         }
       ]

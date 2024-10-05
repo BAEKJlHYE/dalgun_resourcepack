@@ -1,0 +1,10 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/golden_pickaxe"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "guis/screenfade/screenfade"},
+		{"predicate": {"custom_model_data": 2}, "model": "guis/screenfade/screenfade_black"}
+	]
+} 
