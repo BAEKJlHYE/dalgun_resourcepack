@@ -1,5 +1,12 @@
 {
-    "elevator.coming": {
+    "bgm.kids": {
+      "sounds": [
+        {
+          "name": "bgm/kids",
+          "stream": false
+        }
+      ]
+    },"elevator.coming": {
       "sounds": [
         {
           "name": "elevator/coming",
